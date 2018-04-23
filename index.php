@@ -1,8 +1,6 @@
 <?php 
 
-	echo "Hello World!";
-
-	echo "Hello Brazil";
+	echo "Olá mundo";
 
 
 	//testando a branch-novo
